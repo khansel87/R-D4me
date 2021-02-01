@@ -1,14 +1,8 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Learning 
-
-/bin
-/bin/sh
-man man
-man bash
-man -k printf
-$ type CD
-$ type sed
-$ type ls
-whatis
-whatis grep
+R&D
+name:New Skills 
+jobs:
+  job_id:
+     
+mkdir Project Kevin
+man sort
+wget https://s.ntnu.no/bashguide.pdf
